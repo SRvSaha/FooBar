@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello World.
 This file is the address everyone and keep track of my learing phase at dgplug summer training 2016.
 Peace out. 
 Keep Coding. Have Fun. Enjoy life.
+=======
+Hello World
+Hello Mars, I am coming :)
+>>>>>>> c1ec1c1aec11719a704e71f7ac3cc647f604bc43
